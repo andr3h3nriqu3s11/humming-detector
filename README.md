@@ -8,7 +8,7 @@ But the main goals of the project were still accomplished:
 - Learn how to record audio using rust (in Linux)
 - Learn the mathematical bases of a Fourier transform
 
-#How to run
+# How to run
 
 ```bash
 cargo run
